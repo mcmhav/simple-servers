@@ -1,0 +1,19 @@
+{
+  "name": "js-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "./run.sh"
+  },
+  "dependencies": {
+    "clipboardy": "^1.2.3",
+    "console.table": "^0.10.0",
+    "date-fns": "^1.29.0",
+    "esm": "^3.0.84",
+    "express": "^4.16.3",
+    "jwt-verifier": "^1.0.1",
+    "minimist": "^1.2.0",
+    "node-fetch": "^2.2.0"
+  }
+}
